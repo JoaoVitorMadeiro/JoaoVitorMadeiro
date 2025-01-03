@@ -1,4 +1,4 @@
-# Olá, eu sou João Vitor Madeiro! 👋  ]
+# Olá, eu sou João Vitor Madeiro! 👋  
 
 ## Sobre Mim  
 
