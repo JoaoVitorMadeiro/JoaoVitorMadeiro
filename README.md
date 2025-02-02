@@ -8,12 +8,15 @@ As principais tecnologias com as quais trabalho são:
 - **Java**  
 - **Framework Spring** (Spring Boot, Spring Security)  
 - **Hibernate e JPA**  
-- **Testes Unitários** com JUnit  
+- **Testes Unitários** com JUnit e Mockito
 - **Docker**  
 - **Apache Kafka**  
 - **JWT**  
 - **Arquitetura de Projetos** (Clean Architecture, MVC)  
-- **Desenvolvimento de Microservices**  
+- **Desenvolvimento de Microservices**
+- **Git**
+- **SQL**
+- **Eureka**
 
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para entregar soluções eficazes e escaláveis.  
 
