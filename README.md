@@ -50,10 +50,10 @@ Trato cada repositório como um produto. Aqui estão estudos de caso selecionado
 
 | Projeto / Estudo de Caso | Domínio & Tecnologia | O que ele resolve? |
 | :--- | :--- | :--- |
-| **[PicPay Architecture Challenge](LINK_DO_REPO)** | **Sistemas Distribuídos** <br> *(Java, Spring, Kafka)* | Simulação de transações financeiras de alta concorrência com foco em **idempotência**, consistência ACID e processamento assíncrono. |
-| **[Game Mechanics Engine](LINK_DO_REPO)** | **Design de Sistemas & Lógica** <br> *(Matemática, Regras)* | Repositório documental onde estruturo sistemas lógicos complexos (ex: *"Manual Expansivo"*). Demonstra **modelagem de dados**, balanceamento numérico e escrita técnica precisa. |
-| **[Clinica API (DDD)](LINK_DO_REPO)** | **Domain-Driven Design** <br> *(Java, Spring Data)* | API RESTful com foco em regras de negócio complexas (agendamento), aplicando **Clean Architecture** e documentação via Swagger. |
-| **[Food Court UX Study](LINK_DO_REPO)** | **HCI & Acessibilidade** <br> *(Figma, HTA, Vue.js)* | Estudo de caso completo de UX, desde a **Análise Hierárquica de Tarefas** até o protótipo de alta fidelidade focado em acessibilidade visual. |
+| **[PicPay Architecture Challenge](https://github.com/JoaoVitorMadeiro/Picpay-Challenge-)** | **Sistemas Distribuídos** <br> *(Java, Spring, Kafka)* | Simulação de transações financeiras de alta concorrência com foco em **idempotência**, consistência ACID e processamento assíncrono. |
+| **[LojaOnline](https://github.com/JoaoVitorMadeiro/LojaOnline)** | **E-commerce & Segurança** <br> *(Spring Security, JWT)* | Plataforma de vendas focada em **transacionalidade segura**. Implementa fluxos rigorosos de Autenticação/Autorização e integridade de dados financeiros. |
+| **[Clinica API (DDD)](https://github.com/patriciaalsousa/Clinica)** | **Domain-Driven Design** <br> *(Java, Spring Data)* | API RESTful com foco em regras de negócio complexas (agendamento), aplicando **Clean Architecture** e documentação via Swagger. |
+| **[LetterBook](https://github.com/JoaoVitorMadeiro/LetterBook)** | **Arquitetura de Backend** <br> *(Java, Spring Boot)* | Ecossistema de serviços integrados. Demonstra a construção de uma **infraestrutura escalável**, focando na comunicação eficiente entre módulos e robustez do servidor. |
 
 ---
 
