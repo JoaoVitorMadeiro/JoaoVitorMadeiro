@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_DO_SEU_LINKEDIN)](LINK_DO_SEU_LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_DO_SEU_LINKEDIN)](https://www.linkedin.com/in/joaovitormadeiro/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:joao.madeirodev@gmail.com)
 
 </div>
 
