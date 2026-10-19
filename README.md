@@ -1,22 +1,22 @@
-# Hi, I'm João Vitor Madeiro 👋
+# Hi, I'm João Vitor Madeiro 
 
 **Backend Developer** | Java • Spring Boot • Python
 
 I'm passionate about building scalable systems and solving complex architecture problems. I work across the full development lifecycle, from database modeling to delivering robust RESTful APIs.
 
-📍 Ceará, Brazil 🇧🇷
-🌐 Portuguese (native) • English (professional working proficiency)
+ Ceará, Brazil 🇧🇷
+ Portuguese (native) • English (professional working proficiency)
 
 ---
 
-## 🔭 Currently focused on
+##  Currently focused on
 
 - Microservices architecture and Clean Architecture
 - Event-driven systems with Kafka and RabbitMQ
 - Container orchestration and Docker
 - Building and designing production-ready REST APIs
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend**
 
@@ -44,12 +44,12 @@ I'm passionate about building scalable systems and solving complex architecture 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorMadeiro&show_icons=true&theme=transparent)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMadeiro&layout=compact&theme=transparent)
 
-## 📫 Get in touch
+##  Get in touch
 
-- 📧 [joao.madeirodev@gmail.com](mailto:joao.madeirodev@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/joaovitormadeiro)
+-  [joao.madeirodev@gmail.com](mailto:joao.madeirodev@gmail.com)
+-  [LinkedIn](https://linkedin.com/in/joaovitormadeiro)
